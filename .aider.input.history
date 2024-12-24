@@ -1,0 +1,171 @@
+
+# 2024-12-24 11:26:34.815837
++/run git reset --hard
+
+# 2024-12-24 11:26:34.816059
++/run git reset --hard
+
+# 2024-12-24 11:26:42.092407
++yes
+
+# 2024-12-24 11:27:09.286117
++/run git add .
+
+# 2024-12-24 11:27:09.286203
++/run git add .
+
+# 2024-12-24 11:27:09.410369
++/run git commit -m "Fresh start: Initial commit"
+
+# 2024-12-24 11:27:09.410472
++/run git commit -m "Fresh start: Initial commit"
+
+# 2024-12-24 11:27:13.443977
++yes
+
+# 2024-12-24 11:27:17.068403
++/run git push -u origin main
+
+# 2024-12-24 11:27:17.068494
++/run git push -u origin main
+
+# 2024-12-24 11:27:20.433779
++yes
+
+# 2024-12-24 11:27:25.016790
++/run rm -rf .git
+
+# 2024-12-24 11:27:25.016916
++/run rm -rf .git
+
+# 2024-12-24 11:27:25.235353
++/run git init
+
+# 2024-12-24 11:27:25.235446
++/run git init
+
+# 2024-12-24 11:27:25.364152
++/run git add .
+
+# 2024-12-24 11:27:25.364253
++/run git add .
+
+# 2024-12-24 11:27:25.484735
++/run git commit -m "Initial commit"
+
+# 2024-12-24 11:27:25.484947
++/run git commit -m "Initial commit"
+
+# 2024-12-24 11:27:25.606792
++/run git remote add origin https://github.com/subslink326/chatwithnewurl.git
+
+# 2024-12-24 11:27:25.606945
++/run git remote add origin https://github.com/subslink326/chatwithnewurl.git
+
+# 2024-12-24 11:27:25.725930
++/run git push -u origin main
+
+# 2024-12-24 11:27:25.726022
++/run git push -u origin main
+
+# 2024-12-24 11:27:32.593927
++yes
+
+# 2024-12-24 11:28:36.759320
++/ask i only want to copy and dupicalte in the new github repository the project and its files and fodlers that listed within "telegram_ai_bot"
+
+# 2024-12-24 11:28:55.833423
++yes
+
+# 2024-12-24 11:29:09.630782
++/run mkdir new_telegram_project
+
+# 2024-12-24 11:29:09.630901
++/run mkdir new_telegram_project
+
+# 2024-12-24 11:29:09.790728
++/run cd new_telegram_project
+
+# 2024-12-24 11:29:09.790838
++/run cd new_telegram_project
+
+# 2024-12-24 11:29:09.907570
++/run cp -r ../telegram_ai_bot/{.env.example,requirements.txt,src} .
+
+# 2024-12-24 11:29:09.907711
++/run cp -r ../telegram_ai_bot/{.env.example,requirements.txt,src} .
+
+# 2024-12-24 11:29:10.059256
++/run git init
+
+# 2024-12-24 11:29:10.059354
++/run git init
+
+# 2024-12-24 11:29:10.181778
++/run git add .
+
+# 2024-12-24 11:29:10.181907
++/run git add .
+
+# 2024-12-24 11:29:10.303764
++/run git commit -m "Initial commit: Telegram AI Bot"
+
+# 2024-12-24 11:29:10.303845
++/run git commit -m "Initial commit: Telegram AI Bot"
+
+# 2024-12-24 11:29:10.424737
++/run git remote add origin https://github.com/subslink326/chatwithnewurl.git
+
+# 2024-12-24 11:29:10.424832
++/run git remote add origin https://github.com/subslink326/chatwithnewurl.git
+
+# 2024-12-24 11:29:10.543729
++/run git push -f -u origin main
+
+# 2024-12-24 11:29:10.543817
++/run git push -f -u origin main
+
+# 2024-12-24 11:29:19.229033
++yes
+
+# 2024-12-24 11:30:31.246210
++/run rm -rf *
+
+# 2024-12-24 11:30:31.246294
++/run rm -rf *
+
+# 2024-12-24 11:30:31.486793
++/run mkdir -p telegram_bot_copy
+
+# 2024-12-24 11:30:31.486950
++/run mkdir -p telegram_bot_copy
+
+# 2024-12-24 11:30:31.643321
++/run cd telegram_bot_copy
+
+# 2024-12-24 11:30:31.643407
++/run cd telegram_bot_copy
+
+# 2024-12-24 11:30:31.758121
++/run cp -r ../../telegram_ai_bot/{.env.example,requirements.txt,src} .
+
+# 2024-12-24 11:30:31.758204
++/run cp -r ../../telegram_ai_bot/{.env.example,requirements.txt,src} .
+
+# 2024-12-24 11:30:31.909781
++/run rm -rf .git
+
+# 2024-12-24 11:30:31.909922
++/run rm -rf .git
+
+# 2024-12-24 11:30:32.068910
++/run git init
+
+# 2024-12-24 11:30:32.069072
++/run git init
+
+# 2024-12-24 11:30:32.198392
++/run git add .
+
+# 2024-12-24 11:30:32.198473
++/run git add .
